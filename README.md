@@ -1,6 +1,4 @@
 
-CPSC 589 Assignment 2 (W2017)
-Geordie Tait 10013837
 
 This program uses OpenGL and GLFW to draw B-splines, with
 an option to generate surfaces of revolution.

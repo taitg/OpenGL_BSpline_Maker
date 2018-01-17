@@ -1,8 +1,5 @@
 /*
-CPSC 589 Assignment 2 (W2017)
-Geordie Tait 10013837
-
-Based upon starter code given in tutorial
+B-Spline Maker
 Compiled and tested using Visual Studio Community 2015 on Windows 10
 */
 
@@ -357,7 +354,7 @@ int main () {
 	if (!glfwInit()) return 1;
 
 	// create window
-	window = glfwCreateWindow (768, 768, "CPSC589 Assignment 2", NULL, NULL);
+	window = glfwCreateWindow (768, 768, "B-Spline Generator", NULL, NULL);
 	if (!window) return 1;
 	glfwMakeContextCurrent (window);
 
